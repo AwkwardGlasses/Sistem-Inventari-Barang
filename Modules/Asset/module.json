@@ -1,0 +1,13 @@
+{
+    "name": "Asset",
+    "alias": "asset",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Asset\\Providers\\AssetServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

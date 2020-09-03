@@ -1,0 +1,13 @@
+{
+    "name": "Record",
+    "alias": "record",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Record\\Providers\\RecordServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

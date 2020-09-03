@@ -1,0 +1,98 @@
+[
+    {
+        "name": "create-employee",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-employee",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-employee",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "delete-employee",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-profile",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-profile",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "create-category",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-category",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-category",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "create-asset",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-asset",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-asset",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "create-record",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-record",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-record",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "create-vendor",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-vendor",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-vendor",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "create-vendor-pic",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-vendor-pic",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-vendor-pic",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "create-maintenance",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "update-maintenance",
+        "guard_name": "jwt"
+    },
+    {
+        "name": "view-maintenance",
+        "guard_name": "jwt"
+    }
+]

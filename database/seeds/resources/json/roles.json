@@ -1,0 +1,59 @@
+[
+    {
+        "name": "owner",
+        "guard_name": "jwt",
+        "permissions": ["all"]
+    },
+    {
+        "name": "admin",
+        "guard_name": "jwt",
+        "permissions": [
+            "create-employee",
+            "update-employee",
+            "view-employee",
+            "view-profile",
+            "update-profile",
+            "create-category",
+            "update-category",
+            "view-category",
+            "create-asset",
+            "update-asset",
+            "view-asset",
+            "create-record",
+            "update-record",
+            "view-record",
+            "create-vendor",
+            "update-vendor",
+            "view-vendor",
+            "create-vendor-pic",
+            "update-vendor-pic",
+            "view-vendor-pic",
+            "create-maintenance",
+            "update-maintenance",
+            "view-maintenance"
+        ]
+    },
+    {
+        "name": "operator",
+        "guard_name": "jwt",
+        "permissions": [
+            "view-profile",
+            "update-profile",
+            "create-category",
+            "view-category",
+            "create-asset",
+            "view-asset",
+            "create-record",
+            "update-record",
+            "view-record",
+            "create-vendor",
+            "view-vendor",
+            "create-vendor-pic",
+            "update-vendor-pic",
+            "view-vendor-pic",
+            "create-maintenance",
+            "update-maintenance",
+            "view-maintenance"
+        ]
+    }
+]

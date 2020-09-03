@@ -1,0 +1,15 @@
+{
+    "Modules": true,
+    "Employee": true,
+    "ACL": true,
+    "Addsress": true,
+    "Address": true,
+    "Asset": true,
+    "Migration": true,
+    "CreateAssetsTable": true,
+    "Assets": true,
+    "Category": true,
+    "Vendors": true,
+    "Supplier": true,
+    "Record": true
+}
